@@ -1,0 +1,4 @@
+Language : Rust
+Runtime : 0 ms
+Memory : 2.1 MB
+
